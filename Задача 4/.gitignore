@@ -313,6 +313,8 @@ node_modules/
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
 
+Задача 4.csproj
+
 # Paket dependency manager
 .paket/paket.exe
 paket-files/
